@@ -2,19 +2,19 @@
     {
         "name": "Github",
         "color": "blue",
-        "icon": "web",
+        "icon": "github-circle",
         "url": "https://github.com/msdevana"
 	},
     {
         "name": "Instagram",
         "color": "green",
-        "icon": "web",
+        "icon": "camera-enhance",
         "url": "https://instagram.com/stoked_burritos"
 	},
     {
-        "name": "Phots",
+        "name": "Photos",
         "color": "red",
-        "icon": "camera",
+        "icon": "camera-enhance",
         "url": "https://500px.com/manishdevana"
 	}
 ]
