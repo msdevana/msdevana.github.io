@@ -1,15 +1,15 @@
 [
     {
         "name": "OSNAP Research ",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image1.jpg",
-        "link": "o-snap.org"
+        "description": "Overturning in the Subpolar Gyre North Atlantic Program",
+        "image": "images/osnap_map.png",
+        "link": "https://www.o-snap.org"
 	},
     {
-        "name": "Project 2",
-        "description": "This is where you put description about your projects.",
+        "name": "Photography",
+        "description": "Links to my photography portfolio on 500px.com",
         "image": "images/image1.jpg",
-        "link": "https://google.com"
+        "link": "https://500px.com"
 	},
     {
         "name": "Project 3",
