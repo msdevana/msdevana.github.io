@@ -1,26 +1,20 @@
 [
     {
-        "name": "Link",
-        "color": "red",
+        "name": "Github",
+        "color": "blue",
         "icon": "web",
-        "url": "https://google.com"
+        "url": "https://github.com/msdevana"
 	},
     {
-        "name": "Link",
-        "color": "red",
+        "name": "Instagram",
+        "color": "green",
         "icon": "web",
-        "url": "https://google.com"
+        "url": "https://instagram.com/stoked_burritos"
 	},
     {
-        "name": "Link",
+        "name": "Phots",
         "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
-	},
-    {
-        "name": "Link",
-        "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
+        "icon": "camera",
+        "url": "https://500px.com/manishdevana"
 	}
 ]
