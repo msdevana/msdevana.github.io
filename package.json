@@ -1,0 +1,22 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)",
+  "homepage": "https://github.com/msdevana/msdevana.github.io#readme",
+  "bugs": {
+    "url": "https://github.com/msdevana/msdevana.github.io/issues"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msdevana/msdevana.github.io.git"
+  },
+  "scripts": {
+    "compile-sass": "node-sass assets/css/main.sass assets/css/main.css"
+  },
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  },
+  "devDependencies": {}
+}
