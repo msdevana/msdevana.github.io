@@ -1,4 +1,4 @@
-baseURL = 'https://msdevana.github.io'
+baseURL = "https://msdevana.github.io"
 languageCode = 'en-us'
 title = 'Manish S. Devana'
 theme = "hello-friend-ng"
