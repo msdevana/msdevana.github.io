@@ -198,6 +198,11 @@ disableHugoGeneratorInject = false
     url        = "contact_me/"
 
   [[menu.main]]
+    identifier = "cv"
+    name       = "CV"
+    url        = "cv/"
+
+  [[menu.main]]
     identifier = "git"
     name       = "git"
     url        = "https://github.com/msdevana"
