@@ -4,3 +4,5 @@ layout: single
 ---
 
 #### Thanks for checking out my poster and landing here!
+
+1. link to poster [here](/Poster.pdf)
