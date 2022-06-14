@@ -7,3 +7,5 @@ layout: single
 
 1. Link to poster [here](https://drive.google.com/file/d/1o2eV0BScCzdC9P7tuz8P73jcyTZx6Lty/view?usp=sharing)
 2. Link to CV [here](../digital-CV)
+3. My [Github:](https://github.com/msdevana)
+4. Jupyter Notebooks for this work (Coming Soon!)
