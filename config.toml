@@ -200,7 +200,7 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "cv"
     name       = "CV"
-    url        = "digital-CV/"
+    url        = "resume.pdf"
 
   [[menu.main]]
     identifier = "git"
